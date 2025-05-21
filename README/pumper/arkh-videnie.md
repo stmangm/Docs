@@ -1,6 +1,13 @@
 ---
 order: 1
 title: Арх видение
+properties:
+  - name: Тип документа
+    value:
+      - Техническое задание
+  - name: Компонент
+    value:
+      - haos
 ---
 
 [tabs]
@@ -152,3 +159,5 @@ if __name__ == '__main__':
     # sublime.run_command('parce_rs_log', {'file': 'C:\\Users\\user\\Desktop\\test.log'})
     
 ```
+
+[plant-uml:./arkh-videnie.puml::672px:893px]

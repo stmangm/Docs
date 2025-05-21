@@ -8,3 +8,12 @@ properties:
       - Пользовательская документация
       - Техническое задание
       - Черновик
+  - name: Компонент
+    type: Many
+    values:
+      - signor
+      - haos
+      - SPR
+      - Camunda
+    icon: album
+    style: green
