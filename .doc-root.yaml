@@ -1,0 +1,10 @@
+title: Docs
+optionalCategoryIndex: true
+supportedLanguages: []
+properties:
+  - name: Тип документа
+    type: Enum
+    values:
+      - Пользовательская документация
+      - Техническое задание
+      - Черновик
