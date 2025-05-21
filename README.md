@@ -11,7 +11,7 @@ DocAsCode
 2. Цели
 
 * Извлечение информации из файла.
-* Получение данных о сертификатах из сервиса https://certificate-tls-signor-bio.apps.ocp-p.bank.kz/api/v1/users/:user-id/certificates.
+* Получение данных о сертификатах из сервиса https://apps.ocp-p.bank.kz/api/v1/users/:user-id/certificates.
 * Формирование заявлений на основании извлеченных данных и данных сертификатов используя сервис maquete.
 * Логирование процесса обработки и ошибок.
 
@@ -20,10 +20,10 @@ DocAsCode
 * Файл с данными:
   * Поля: iin, mobile_phone_number.
   * Формат файла (CSV).
-* URL сервиса: https://certificate-tls-signor-bio.apps.ocp-p.bank.kz/api/v1/users/:user-id/certificates.
+* URL сервиса: https://apps.ocp-p.bank.kz/api/v1/users/:user-id/certificates.
 
 4. Алгоритм
-
+                               
 1. Инициализация:
     * Чтение входного файла.
     * Настройка логирования (уровень детализации).
