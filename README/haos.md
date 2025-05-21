@@ -1,5 +1,5 @@
 ---
-order: 0.5
-title: HAOS
+order: 2
+title: Haos
 ---
 
