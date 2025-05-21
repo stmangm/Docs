@@ -8,4 +8,6 @@ properties:
 
 DocAsCode
 
+[view:hierarchy=none::::List]
+
 
